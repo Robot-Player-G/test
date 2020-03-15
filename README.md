@@ -1,2 +1,2 @@
 # test
-It's just a teat!
+It's just a test!
